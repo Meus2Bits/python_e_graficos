@@ -2,14 +2,15 @@
 # -------------------------------------------
 # %matplotlib inline
 
-# Importando as bibliotecas
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Criando os dados
+# CRIANDO DADOS
+# -------------------------------------------
 x = np.linspace(0, 10, 100)
 y = np.sin(x)
 
-# Representando graficamente os pontos
+# REPRESENTANDO GRAFICAMENTE
+# -------------------------------------------
 plt.plot(x, y)
 plt.show()
