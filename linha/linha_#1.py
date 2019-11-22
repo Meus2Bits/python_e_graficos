@@ -1,3 +1,5 @@
+# CONFIGURANDO
+# -------------------------------------------
 # %matplotlib inline
 
 # Importando as bibliotecas
